@@ -1,0 +1,28 @@
+create a text file and name it "activity2-joshuamitsumatsu
+
+    00000000
+        0
+    10010100
+        148
+    01101111
+        111
+    10011001
+        153
+    11111111
+        255
+    10110001
+        177
+    11100101
+        299
+    10101010
+        170
+    11010101 -> show work
+        convert the 1's in the code to their values based on digit placement
+        the far right digit being 2^0 and the far left being 2^7
+        all digits with the value of 0 drop out
+        That becomes 2^7 + 2^6 + 2^4 + 2^2
+        This turns into 128+64+16+4+1 = 213
+    11100001
+        225
+    10010110
+        150

@@ -1,0 +1,14 @@
+Create a Psuedocode Algoritym to perform the following function:
+    Convert Decimal Numbers (like 255) to its equivalent binary number format (11111111)
+
+    write down the decimal number
+    divide the number by 2
+    write the answer below
+    Store the remainder as a value
+    this value will be highest value bit
+    divide the answer to the previous division by 2
+    write the answer below
+    store the remainder with the highest value bit
+    repeat this process until the answer to the division is 0
+    your binary number format will be read from the highest value to lowest value
+    
